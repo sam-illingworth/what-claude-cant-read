@@ -44,9 +44,9 @@ LICENSE
 
 **Challenge the coding:** Read Claude's outputs in `data/outputs/` and my coded responses in `analysis/coded-responses/`. If you disagree with a coding decision, open an issue. The framework is in `analysis/coding-framework.md`.
 
-**Run it yourself:** Take the prompts from `data/prompts.md`, pick your own poems, and run them through any model. Compare your readings with the model's. The framework works for any LLM and any reader.
+**Run it yourself:** This is what I found for Claude. I would expect similar results for other large language models, but I do not know. Take the prompts from `data/prompts.md`, run them through GPT, Gemini, Llama, or whatever you use. Code the responses yourself. Prove me wrong. The framework works for any LLM and any reader.
 
-**Extend it:** The study has known limitations (single model, single coder, English-language poems only). Contributions that address these are welcome.
+**Extend it:** The study has known limitations (single model, single coder, English-language poems only). Contributions that address these are welcome. Try different poems, different languages, different models. Open an issue or a PR with your findings.
 
 ## Method
 
