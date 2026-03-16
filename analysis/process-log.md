@@ -11,6 +11,7 @@ Claude Opus 4.6 (1M context). Model ID: claude-opus-4-6[1m].
 - Notable about Claude's selection: it gravitates toward canonical, well-anthologised poems (Owen, Shelley, Frost, Angelou, Eliot, Williams). These are poems with extensive critical commentary in training data. The contemporary and non-canonical choices (Shire, Forché, Szymborska) were either suggested by Sam or proposed as alternatives when the original pick fell through. This is itself a finding about how Claude constructs a "representative" poetry sample.
 - Poem texts sourced: 4 from Claude's training knowledge (Owen, Shelley, Frost, Williams), 1 pasted by Sam (Illingworth), 3 fetched from web (Forché via poets.org, Shire via PDF extraction, Szymborska via web search), 2 from Claude's training knowledge verified against web sources (Angelou, Eliot)
 - All poems saved verbatim to `data/poem-XX-*.md`
+- **Version note:** The Owen and Shelley texts fed to the subagents contained minor variants from the authoritative published versions (Owen: "gas-shells dropping softly behind" instead of "tired, outstripped Five-Nines that dropped behind"; Shelley: "King of Kings" capitalised, semicolons instead of colons). The `data/poem-XX-*.md` files on GitHub have since been corrected to authoritative texts, but the outputs in `data/outputs/` were generated from the original variants. This does not affect the coding (the variants are minor and do not change the poems' meaning or structure) but is noted here for transparency.
 
 ## Stage 2: Prompt execution
 - 3 standardised prompts (see `data/prompts.md`)
