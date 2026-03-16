@@ -1,17 +1,8 @@
 # This Is Just to Say
 ## William Carlos Williams
 
-I have eaten
-the plums
-that were in
-the icebox
+**Publication:** *Spring and All* (1934). Collected in *The Collected Poems of William Carlos Williams, Volume I* (New Directions, 1986).
 
-and which
-you were probably
-saving
-for breakfast
+**Where to read:** [Poetry Foundation](https://www.poetryfoundation.org/poems/56159/this-is-just-to-say)
 
-Forgive me
-they were delicious
-so sweet
-and so cold
+*Full text not reproduced here due to copyright (life+70, expires 2033 in UK). The poem is widely available at the link above.*

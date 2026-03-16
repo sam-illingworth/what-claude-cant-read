@@ -6,20 +6,24 @@ Open research data for the study "What Claude Cannot Read in a Poem" published o
 
 I gave Claude Opus 4.6 ten poems and three standardised critical reading prompts. Then I close-read its close-readings, coding all 30 responses against an 11-category framework. This repository contains everything: the poems, the prompts, all of Claude's responses (verbatim, unedited), my coding, the analytical framework, and the full process log.
 
+## A note on copyright
+
+Poems still in copyright are not reproduced in full in this repository. Those files contain bibliographic details and links to where the poem can be read online. Poems in the public domain (Owen, Shelley) and the author's own poem (Illingworth) are included in full. Claude's responses in `data/outputs/` quote from the poems in the context of criticism and review.
+
 ## Structure
 
 ```
 data/
-  poem-01-illingworth.md    — "A Child Explains AI to Their Grandparent" (Sam Illingworth)
-  poem-02-williams.md       — "This Is Just to Say" (William Carlos Williams)
-  poem-03-owen.md           — "Dulce et Decorum Est" (Wilfred Owen)
-  poem-04-angelou.md        — "Still I Rise" (Maya Angelou)
-  poem-05-eliot.md          — "The Waste Land" lines 1-18 (T.S. Eliot)
-  poem-06-shelley.md        — "Ozymandias" (Percy Bysshe Shelley)
-  poem-07-shire.md          — "Home" (Warsan Shire)
-  poem-08-forche.md         — "The Colonel" (Carolyn Forché)
-  poem-09-frost.md          — "The Road Not Taken" (Robert Frost)
-  poem-10-szymborska.md     — "The Three Oddest Words" (Wisława Szymborska, trans. Barańczak & Cavanagh)
+  poem-01-illingworth.md    — "A Child Explains AI to Their Grandparent" (Sam Illingworth) [full text]
+  poem-02-williams.md       — "This Is Just to Say" (William Carlos Williams) [bibliographic stub + link]
+  poem-03-owen.md           — "Dulce et Decorum Est" (Wilfred Owen) [full text, public domain]
+  poem-04-angelou.md        — "Still I Rise" (Maya Angelou) [bibliographic stub + link]
+  poem-05-eliot.md          — "The Waste Land" lines 1-18 (T.S. Eliot) [bibliographic stub + link]
+  poem-06-shelley.md        — "Ozymandias" (Percy Bysshe Shelley) [full text, public domain]
+  poem-07-shire.md          — "Home" (Warsan Shire) [bibliographic stub + link]
+  poem-08-forche.md         — "The Colonel" (Carolyn Forché) [bibliographic stub + link]
+  poem-09-frost.md          — "The Road Not Taken" (Robert Frost) [bibliographic stub + link]
+  poem-10-szymborska.md     — "The Three Oddest Words" (Wisława Szymborska, trans. Barańczak & Cavanagh) [bibliographic stub + link]
   prompts.md                — The three standardised prompts
   outputs/                  — Claude's 30 responses (verbatim)
 

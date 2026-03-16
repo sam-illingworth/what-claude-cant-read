@@ -1,21 +1,8 @@
 # The Waste Land (opening, lines 1-18)
 ## T.S. Eliot
 
-April is the cruellest month, breeding
-Lilacs out of the dead land, mixing
-Memory and desire, stirring
-Dull roots with spring rain.
-Winter kept us warm, covering
-Earth in forgetful snow, feeding
-A little life with dried tubers.
-Summer surprised us, coming over the Starnbergersee
-With a shower of rain; we stopped in the colonnade,
-And went on in sunlight, into the Hofgarten,
-And drank coffee, and talked for an hour.
-Bin gar keine Russin, stamm' aus Litauen, echt deutsch.
-And when we were children, staying at the arch-duke's,
-My cousin's, he took me out on a sled,
-And I was frightened. He said, Marie,
-Marie, hold on tight. And down we went.
-In the mountains, there you feel free.
-I read, much of the night, and go south in the winter.
+**Publication:** *The Waste Land* (1922). Collected in *The Complete Poems and Plays of T.S. Eliot* (Faber & Faber).
+
+**Where to read:** [Poetry Foundation](https://www.poetryfoundation.org/poems/47311/the-waste-land)
+
+*Full text not reproduced here due to copyright (life+70, expires 2035 in UK). The opening 18 lines were used in the study. The poem is widely available at the link above.*

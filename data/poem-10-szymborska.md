@@ -2,11 +2,8 @@
 ## Wisława Szymborska
 ### Translated by S. Barańczak & C. Cavanagh
 
-When I pronounce the word Future,
-the first syllable already belongs to the past.
+**Publication:** *Poems New and Collected, 1957-1997* (Harcourt Brace, 1998). Original Polish: "Trzy słowa najdziwniejsze."
 
-When I pronounce the word Silence,
-I destroy it.
+**Where to read:** [Poetry Foundation](https://www.poetryfoundation.org/poems/49008/the-three-oddest-words)
 
-When I pronounce the word Nothing,
-I make something no non-being can hold.
+*Full text not reproduced here due to copyright (life+70, expires 2082; translation also in copyright). The poem is widely available at the link above.*
