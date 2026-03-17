@@ -50,7 +50,7 @@ LICENSE
 
 ## Method
 
-- 10 poems selected collaboratively (Claude proposed, Sam modified 3/10)
+- 10 poems selected collaboratively (Claude proposed, Sam modified or approved changes to 4/10)
 - Each poem given to a separate Claude Opus 4.6 instance with a fresh context
 - 3 prompts per poem (close reading, what's missing, self-assessment)
 - 30 responses saved verbatim, no editing or cherry-picking
