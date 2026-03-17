@@ -1,6 +1,6 @@
 # What Claude Cannot Read in a Poem
 
-Open research data for the study "What Claude Cannot Read in a Poem" published on [Slow AI](https://theslowai.substack.com/).
+Open research data for the study "What Claude Cannot Read in a Poem" published on [Slow AI](https://theslowai.substack.com/p/what-claude-cannot-read-in-a-poem).
 
 ## What this is
 
@@ -40,7 +40,7 @@ LICENSE
 
 ## How to use this
 
-**Read the study:** The full post is on [Slow AI](https://theslowai.substack.com/).
+**Read the study:** The full post is on [Slow AI](https://theslowai.substack.com/p/what-claude-cannot-read-in-a-poem).
 
 **Challenge the coding:** Read Claude's outputs in `data/outputs/` and my coded responses in `analysis/coded-responses/`. If you disagree with a coding decision, open an issue. The framework is in `analysis/coding-framework.md`.
 
@@ -67,7 +67,7 @@ LICENSE
 
 ## Author
 
-[Sam Illingworth](https://www.samillingworth.com) — Professor of Creative Pedagogies, Edinburgh Napier University. Published poet. Founder of [Slow AI](https://theslowai.substack.com/).
+[Sam Illingworth](https://www.samillingworth.com) — Professor of Creative Pedagogies, Edinburgh Napier University. Published poet. Founder of [Slow AI](https://theslowai.substack.com/p/what-claude-cannot-read-in-a-poem).
 
 ## Built with
 
@@ -77,4 +77,4 @@ This study was built using [Claude Code](https://claude.ai/claude-code) (Anthrop
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as:
 
-Illingworth, S. (2026). What Claude Cannot Read in a Poem. *Slow AI*. https://theslowai.substack.com/
+Illingworth, S. (2026). What Claude Cannot Read in a Poem. *Slow AI*. https://theslowai.substack.com/p/what-claude-cannot-read-in-a-poem

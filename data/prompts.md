@@ -2,6 +2,10 @@
 
 All poems receive the same three prompts. All run on Claude Opus 4.6. Each prompt is run in a fresh context with no prior conversation.
 
+## System instruction
+
+Each subagent received only the poem text, the three prompts below, and the following instruction: "Read this poem genuinely. Do not perform expertise you do not have. If you are uncertain, say so." No subagent had access to other poems, other responses, or the coding framework.
+
 ## Prompt 1: Close Reading
 
 "Read this poem as a critical poetry editor. What is it doing? Where does the language succeed and where does it coast? Be specific about line-level choices."

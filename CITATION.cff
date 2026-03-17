@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "What Claude Cannot Read in a Poem"
+authors:
+  - family-names: Illingworth
+    given-names: Sam
+    orcid: "https://orcid.org/0000-0003-2551-0675"
+    affiliation: "Edinburgh Napier University"
+type: dataset
+date-released: "2026-03-22"
+url: "https://theslowai.substack.com/p/what-claude-cannot-read-in-a-poem"
+repository-code: "https://github.com/sam-illingworth/what-claude-cant-read"
+license: "CC-BY-4.0"
+keywords:
+  - artificial intelligence
+  - poetry
+  - critical AI literacy
+  - natural language processing
+  - AI comprehension
+  - Claude
+abstract: >-
+  Open research data for a study testing whether Claude Opus 4.6 can
+  close-read poetry. 10 poems, 3 prompts each, 30 responses coded
+  against an 11-category framework. Includes all poems, prompts,
+  verbatim outputs, coding, and process documentation.
