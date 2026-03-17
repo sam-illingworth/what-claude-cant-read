@@ -1,7 +1,7 @@
 # This Is Just to Say
 ## William Carlos Williams
 
-**Publication:** *Spring and All* (1934). Collected in *The Collected Poems of William Carlos Williams, Volume I* (New Directions, 1986).
+**Publication:** *Collected Poems 1921–1931* (Objectivist Press, 1934). Collected in *The Collected Poems of William Carlos Williams, Volume I* (New Directions, 1986).
 
 **Where to read:** [Poetry Foundation](https://www.poetryfoundation.org/poems/56159/this-is-just-to-say)
 

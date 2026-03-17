@@ -1,6 +1,10 @@
 # Ozymandias
 ## Percy Bysshe Shelley
 
+**Source edition:** Text follows the version in *The Complete Poetical Works of Percy Bysshe Shelley*, ed. Thomas Hutchinson (Oxford University Press, 1904). Minor punctuation variants exist across editions (the 1818 *Examiner* printing differs in capitalisation and quotation marks).
+
+**Note:** The text fed to Claude contained minor variants: "King of Kings" capitalised and semicolons instead of colons. The outputs in `data/outputs/` reflect the original variants. See `analysis/process-log.md` for full details.
+
 I met a traveller from an antique land\
 Who said: "Two vast and trunkless legs of stone\
 Stand in the desert . . . Near them, on the sand,\

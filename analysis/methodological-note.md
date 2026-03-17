@@ -11,3 +11,5 @@ Claude's readings are one interpretation. Sam's readings are another, informed b
 The finding is not that Claude reads poems badly. The finding is about what is systematically present and systematically absent in Claude's readings, and what that tells us about the difference between pattern recognition and comprehension.
 
 When we say Claude "misses" something, we mean: a reader with relevant experience, knowledge, or embodied understanding would likely read this differently. Not that Claude is wrong. That it is incomplete in ways that are consistent and revealing.
+
+A tension should be acknowledged: the coding practice inevitably frames Sam's readings as the reference point against which Claude's are measured. This is inherent to a single-coder study. A second coder would introduce an independent perspective and strengthen the analysis. The coded responses should be read as one expert reader's assessment of where the readings diverge, not as definitive judgements of quality.

@@ -1,7 +1,7 @@
 # Poem 4: "Still I Rise" — Maya Angelou
 
 ## Sam's reading
-The poem is about a repressed woman having her voice heard and forcing it to be heard. It uses words that have been used against the speaker and claims them back. It owns blackness. The poem is rooted in anger and pain but is ultimately hopeful.
+The poem is about a Black woman refusing to be silenced. It takes the language used against the speaker and claims it back. It owns blackness. The poem is rooted in anger and pain but is ultimately defiant and triumphant.
 
 This is about structural racism, not individual racial insults. Slavery is not directly mentioned until the end, but what the poem is about is obvious throughout.
 

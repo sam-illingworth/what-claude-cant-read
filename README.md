@@ -8,7 +8,7 @@ I gave Claude Opus 4.6 ten poems and three standardised critical reading prompts
 
 ## A note on copyright
 
-Poems still in copyright are not reproduced in full in this repository. Those files contain bibliographic details and links to where the poem can be read online. Poems in the public domain (Owen, Shelley) and the author's own poem (Illingworth) are included in full. Claude's responses in `data/outputs/` quote from the poems in the context of criticism and review.
+Poems still in copyright are not reproduced in full in this repository. Those files contain bibliographic details and links to where the poem can be read online. Poems in the public domain (Owen, Shelley) and the author's own poem (Illingworth) are included in full. Claude's responses in `data/outputs/` quote lines from the poems within substantial critical commentary. This constitutes fair dealing for the purposes of criticism and review under UK Copyright, Designs and Patents Act 1988, s.30, with sufficient acknowledgement of authorship throughout.
 
 ## Structure
 

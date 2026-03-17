@@ -1,4 +1,4 @@
-# The Three Oddest Words — Wislawa Szymborska
+# The Three Oddest Words — Wisława Szymborska
 
 ## Prompt 1 (Close Reading)
 

@@ -1,6 +1,8 @@
 # Dulce et Decorum Est
 ## Wilfred Owen
 
+**Note:** The text below is the authoritative version. The text fed to Claude contained a minor variant in line 8: "Of gas-shells dropping softly behind" instead of "Of tired, outstripped Five-Nines that dropped behind." The outputs in `data/outputs/` reflect the original variant. This does not affect the coding. See `analysis/process-log.md` for full details.
+
 Bent double, like old beggars under sacks,\
 Knock-kneed, coughing like hags, we cursed through sludge,\
 Till on the haunting flares we turned our backs\
