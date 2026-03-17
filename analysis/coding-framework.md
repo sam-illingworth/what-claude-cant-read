@@ -21,11 +21,18 @@ Each of Claude's 30 responses (10 poems x 3 prompts) is coded against these cate
 
 ## Coding Method
 
-Each response receives:
-1. A list of which M-codes are present (Claude demonstrates this capacity)
-2. A list of which M-codes are absent or superficially handled
-3. A confidence flag: where Claude is **confident and wrong**, note this explicitly
-4. Sam's close-reading annotation explaining the coding decision
+Each response is coded on a three-point scale per M-code:
+
+| Value | Meaning |
+|-------|---------|
+| **detected** | The model clearly demonstrates this capacity. The reading engages with this dimension substantively. |
+| **partial** | The model touches on this dimension but superficially, inconsistently, or without depth. It gestures toward the insight without fully arriving. |
+| **absent** | The model does not address this dimension, or handles it so superficially that it adds nothing to a reader's understanding. |
+
+Each coding decision includes:
+1. The assigned value (detected / partial / absent)
+2. A confidence flag: where Claude is **confident and wrong**, this is noted explicitly
+3. Sam's close-reading annotation explaining the coding decision
 
 ## Poems
 

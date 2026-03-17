@@ -44,9 +44,82 @@ LICENSE
 
 **Challenge the coding:** Read Claude's outputs in `data/outputs/` and my coded responses in `analysis/coded-responses/`. If you disagree with a coding decision, open an issue. The framework is in `analysis/coding-framework.md`.
 
-**Run it yourself:** This is what I found for Claude. I would expect similar results for other large language models, but I do not know. Take the prompts from `data/prompts.md`, run them through GPT, Gemini, Llama, or whatever you use. Code the responses yourself. Prove me wrong. The framework works for any LLM and any reader.
+**Run it yourself:** See the replication guide below.
 
 **Extend it:** The study has known limitations (single model, single coder, English-language poems only). Contributions that address these are welcome. Try different poems, different languages, different models. Open an issue or a PR with your findings.
+
+## Replication guide
+
+Everything you need to run this study with a different model or different poems.
+
+### Step 1: Select poems
+
+Pick 10 poems. A good selection includes variety along these dimensions:
+- **Canonical vs contemporary** (well-studied poems test whether the model reproduces existing criticism; lesser-known poems test whether it can read without scaffolding)
+- **Different traditions** (not all English Romantic poets; include translated work, spoken word, prose poetry)
+- **Different difficulty levels** (a simple surface with complex subtext, a dense allusion-heavy text, a very short poem)
+- **At least one poem you wrote or that is not in the model's training data** (this removes the model's ability to draw on prior criticism and tests raw comprehension)
+
+For each poem, note what you are testing. In the coding framework this is the "Key test" column: one sentence describing the specific challenge this poem poses for AI comprehension.
+
+### Step 2: Generate responses
+
+For each poem, open a **fresh conversation** with no prior context. Do not run multiple poems in the same session.
+
+Paste the system instruction, then the poem text, then all three prompts **in a single message**. The model should respond to all three prompts in one response. This mirrors how the original study was run (each subagent received everything at once).
+
+**System instruction:**
+> Read this poem genuinely. Do not perform expertise you do not have. If you are uncertain, say so.
+
+**The three prompts** (from `data/prompts.md`):
+1. "Read this poem as a critical poetry editor. What is it doing? Where does the language succeed and where does it coast? Be specific about line-level choices."
+2. "What is this poem about that it never says directly? What is present in the silence, the line breaks, the rhythm? What would a reader feel that the text does not name?"
+3. "What about this poem are you least confident you understood correctly? Where might your reading be wrong?"
+
+Save each response verbatim. Do not edit, regenerate, or cherry-pick.
+
+### Step 3: Code the responses
+
+Read the model's response alongside the poem. For each of the 11 M-codes (defined in `analysis/coding-framework.md`), assign one of three values:
+
+| Value | Meaning |
+|-------|---------|
+| **detected** | The model clearly demonstrates this capacity. The reading engages with this dimension substantively. |
+| **partial** | The model touches on this dimension but superficially, inconsistently, or without depth. It gestures toward the insight without fully arriving. |
+| **absent** | The model does not address this dimension, or handles it so superficially that it adds nothing to a reader's understanding. |
+
+For each coding decision, write a brief annotation explaining why you assigned that value. This is the most important part: your reasoning is the data, not just the label.
+
+**Coding template** (copy for each poem):
+
+```markdown
+# Poem: [Title] — [Poet]
+
+## Your reading
+[Your own reading of the poem before looking at the model's response]
+
+## Coding
+| Code | Category | Value | Annotation |
+|------|----------|-------|------------|
+| M1 | Surface structure | | |
+| M2 | Literary devices | | |
+| M3 | Thematic summary | | |
+| M4 | Intertextual references | | |
+| M5 | Tone and register | | |
+| M6 | Embodied experience | | |
+| M7 | Cultural specificity | | |
+| M8 | The unsaid | | |
+| M9 | Rhythm as meaning | | |
+| M10 | Risk and vulnerability | | |
+| M11 | Self-awareness of limits | | |
+
+## Key divergences
+[Where does the model's reading differ most from yours, and what does that reveal?]
+```
+
+### Step 4: Share your findings
+
+Open an issue or PR on this repository. Include: which model, which poems, your coded responses, and any patterns you found. Comparative data across models is the most valuable contribution this study can receive.
 
 ## Method
 
